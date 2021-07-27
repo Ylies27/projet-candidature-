@@ -1,4 +1,3 @@
-from tkinter import *
 
 essaie = 3
 i = 0
